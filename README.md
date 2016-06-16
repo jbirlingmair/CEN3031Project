@@ -1,4 +1,4 @@
-CEN3031Project
+Super Albert World
 ==============
 
-Group project for the CEN3031 class.
+A 2D platformer where you play as Albert the Gator to take down University of Florida rivals and bring glory to the SEC!
